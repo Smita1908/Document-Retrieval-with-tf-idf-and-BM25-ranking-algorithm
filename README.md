@@ -10,10 +10,10 @@ the documents. In the beginning, a baseline document retriever with tf-idf featu
 TREC(Text REtrieval Conference)
 
 # How to run the project:
-Libraries required: BeautifulSoup or xml, NLTK.
-There are two python files.
-Open the file using your favourite python framkework.
-Keep the trec_documents, patterns and test_questions in the same folder along with the python files.
-Prefereably start with the tf_idf.py file as this is the baseline.
-With eventual complexities: Open BM25.py  file for improved result.
-Each file contains detailed clear description of the functionalities.
+* Libraries required: BeautifulSoup or xml, NLTK.
+* There are two python files: tf-idf.py, bm25.py.
+* Open the file using your favourite python framkework.
+* Keep the trec_documents, patterns and test_questions in the same folder along with the python files.
+* Prefereably start with the tf_idf.py file as this is the baseline.
+* With eventual complexities: Open BM25.py  file for improved result.
+* Each file contains detailed clear description of the functionalities.
