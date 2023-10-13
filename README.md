@@ -9,7 +9,7 @@ the documents. In the beginning, a baseline document retriever with tf-idf featu
 # Dataset used:
 TREC(Text REtrieval Conference)
 
-# How to run the project:
+## How to run the project:
 * Libraries required: BeautifulSoup or xml, NLTK.
 * There are two python files: tf-idf.py, bm25.py.
 * Open the file using your favourite python framkework.
